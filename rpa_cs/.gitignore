@@ -1,0 +1,169 @@
+# ===============================
+# 📦 .NET / C# + Selenium Project
+# ===============================
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+Logs/
+Exports/
+TestResults/
+build/
+out/
+x64/
+x86/
+[Aa]rtifacts/
+publish/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# IDE configurations
+.vscode/
+.idea/
+*.code-workspace
+
+# NuGet
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
+~$*
+*.swp
+*.swo
+*.orig
+*.old
+
+# Logs and debug
+*.log
+*.tlog
+*.dmp
+*.stackdump
+*.pidb
+*.mdb
+*.pdb
+*.svclog
+*.trx
+
+# Visual Studio specific
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.vcproj
+*.vssscc
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+*.opencover.xml
+
+# Selenium related
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+selenium-screenshot-*.png
+
+# Excel/CSV exports
+Exports/
+*.csv
+*.xlsx
+
+# Log files
+Logs/
+*.log
+
+# Configurations / Secrets
+*.env
+appsettings.*.json
+secrets.json
+*.config.local
+config/*.local.*
+
+# Others
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual Environment
+
+venv/
+ENV/
+env/
+
+# Logs
+
+logs/
+*.log
+
+# CSV/Exports
+
+csv/
+*.csv
+
+# IDEs
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# WebDriver Manager Cache
+
+.wdm/
