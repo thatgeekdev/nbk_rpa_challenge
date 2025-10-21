@@ -1,4 +1,6 @@
-# .NET / C# + Selenium Project
+# ===============================
+# 📦 .NET / C# + Selenium Project
+# ===============================
 
 # Build Folders
 [Bb]in/
@@ -119,7 +121,7 @@ yarn-error.log*
 
 
 
-# Python  + Selenium Project
+# Python
 
 **pycache**/
 *.pyc
